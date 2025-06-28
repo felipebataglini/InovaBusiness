@@ -125,4 +125,5 @@ document.addEventListener('DOMContentLoaded', () => {
         const users = getUsers();
         renderUsers(users);
     }
-});
+}
+);

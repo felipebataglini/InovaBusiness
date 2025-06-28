@@ -1,5 +1,5 @@
 # InovaBusiness
-Repositório de desenvolvimento do projeto 1 da disciplina de Programação Web Front-End
+Repositório de desenvolvimento do projeto 1 e 2 da disciplina de Programação Web Front-End
 
 ## Disciplina 
 Programação Web Front-End - 2025/1
@@ -11,9 +11,12 @@ O projeto a ser desenvolvido é relacionado ao Objetivo de Desenvolvimento Suste
 * Envio de ideias;
 * Páginas de cadastro e login de inventores;
 * Uso de icones e fonte externos;
-* Desenvolvimento em CSS e HTML.
+* Desenvolvimento em CSS e HTML;
+* Utilização de APIs DOM e Web Storage;
+* Uso de JavaScript e Local Storage.
 
 ## Links importantes
 1. [Acesso a página](https://felipebataglini.github.io/InovaBusiness/);
 2. [Acesso ao currículo](https://felipebataglini.github.io/Code/);
-3. [Acesso ao vídeo do projeto](https://youtu.be/exvaaI2fugk).
+3. [Acesso ao vídeo do projeto - Parte 1](https://youtu.be/exvaaI2fugk).
+4. [Acesso ao vídeo do projeto - Parte 2](https://)
