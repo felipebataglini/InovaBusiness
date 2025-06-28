@@ -19,4 +19,4 @@ O projeto a ser desenvolvido é relacionado ao Objetivo de Desenvolvimento Suste
 1. [Acesso a página](https://felipebataglini.github.io/InovaBusiness/);
 2. [Acesso ao currículo](https://felipebataglini.github.io/Code/);
 3. [Acesso ao vídeo do projeto - Parte 1](https://youtu.be/exvaaI2fugk).
-4. [Acesso ao vídeo do projeto - Parte 2](https://)
+4. [Acesso ao vídeo do projeto - Parte 2](https://youtu.be/BduqIMRmRFQ)
